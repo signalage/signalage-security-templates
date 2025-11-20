@@ -18,10 +18,10 @@ A practical, SMB-ready incident response framework aligned with **NIST 800-61 Re
 
 | Role | Responsibility | Contact |
 |------|----------------|---------|
-| **Incident Response Lead (IRL)** | Overall coordination | security@signalage.com |
-| **Technical Response Team (TRT)** | Forensics, containment, remediation | ops@signalage.com |
-| **Communications Lead** | Internal + external communication | comms@signalage.com |
-| **Legal / Compliance** | Regulatory guidance | legal@signalage.com |
+| **Incident Response Lead (IRL)** | Overall coordination | info@signalage.com |
+| **Technical Response Team (TRT)** | Forensics, containment, remediation | info@signalage.com |
+| **Communications Lead** | Internal + external communication | info@signalage.com |
+| **Legal / Compliance** | Regulatory guidance | info@signalage.com |
 
 ---
 
