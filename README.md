@@ -14,7 +14,7 @@ These templates are **professionally crafted** by the SignalAge Cybersecurity te
 - Covers ransomware, malware, insider threats, BEC, and cloud misconfigurations
 - Fully aligned with NIST 800-61 and industry best practices
 
-[Download Incident Response Plan](./incident-response.md)
+[Download Incident Response Plan](./incident-response-plan.md)
 
 ### 2️⃣ Cybersecurity Compliance Checklist
 - SOC2 + NIST + CIS ready
